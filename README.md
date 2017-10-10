@@ -9,7 +9,7 @@ The GUI was developed by Stefan Radev and Veronika Lerche as an extension to the
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376117/
 
-It provides a flexible interface to the earlier cmd tool written in C including a visualization module and prallelised parameter estimation across participants.
+It provides a flexible interface to the earlier cmd tool written in C including a visualization module and parallelised parameter estimation across participants.
 
 If you want to use this GUI, follow these steps:
 
